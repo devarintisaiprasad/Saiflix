@@ -61,8 +61,8 @@ frontend/
 
 ### 1. Clone
 ```bash
-git clone https://github.com/Devarintisaiprasad/saiflix.git
-cd saiflix
+git clone https://github.com/Devarintisaiprasad/Saiflix.git
+cd Saiflix
 ```
 
 ### 2. Backend
